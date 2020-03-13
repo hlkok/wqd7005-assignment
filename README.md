@@ -1,2 +1,7 @@
-# wqd7005-assignment
-WQD7005 - Data Mining Assignment
+# WQD7005 - Data Mining Assignment
+## Master of Data Science, University of Malaya
+
+### Group Members:
+#### Ahmad Azwa Kamaruddin
+#### HL
+
